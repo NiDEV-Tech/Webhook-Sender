@@ -4,17 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/index.js",
-    "start": "node ./src/index.js",
-    "build": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiDEV-Tech/Webhook-Sender.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "discord.js": "^12.5.1"
+  "bugs": {
+    "url": "https://github.com/NiDEV-Tech/Webhook-Sender/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
+  "homepage": "https://github.com/NiDEV-Tech/Webhook-Sender#readme",
+  "dependencies": {
+    "wokcommands": "^1.2.8"
   }
 }
