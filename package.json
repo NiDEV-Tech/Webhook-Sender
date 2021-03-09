@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/NiDEV-Tech/Webhook-Sender#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "nodemon": "^2.0.7",
     "wokcommands": "^1.2.8"
   }
