@@ -27,7 +27,6 @@ client.on('ready', () => {
     featureDir: 'features',
     messagesPath,
     showWarns: true, // Show start up warnings
-    dbOptions,
     disabledDefaultCommands
   })
     // Set your MongoDB connection path
@@ -35,6 +34,6 @@ client.on('ready', () => {
     .setDefaultPrefix('/')
     // Set the embed color for your bot. The default help menu will use this. This hex value can be a string too
     .setColor(0xff0000)
-})
+},
 
-client.login(process.env.TOKEN)
+client.login(process.env.TOKEN))

@@ -1,7 +1,6 @@
 module.exports = (client, instance) => {
   client.on('message', (message) => {
-    if(msg.guild==null &&msg.author.id!=='botDiscordId'){
-    msg.reply('dosomethinghere')
-        
-  })
+    if(message.guild==null && message.author.id!=="813483295416909854" && message.content=="/server_invite"){
+      message.reply('dosomethinghere')
+  }})
 }
