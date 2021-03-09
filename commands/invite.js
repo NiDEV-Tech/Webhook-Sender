@@ -8,7 +8,7 @@ module.exports = {
     callback: ({ client, message, args }) => {
       message.delete()
       const url = args[0];
-      message.reply('Pracuji na tom, chvilku prosím').then(sendMessage().then(console.log(url)))
+      message.reply('Pracuji na tom, chvilku prosím').then(sendMessage())
 
       function sendMessage(message) {
          fetch(url, {
