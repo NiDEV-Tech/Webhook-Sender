@@ -26,7 +26,7 @@ client.on('ready', () => {
     commandsDir: 'commands',
     featureDir: 'features',
     messagesPath,
-    showWarns: true, // Show start up warnings
+    showWarns: false, // Show start up warnings
     disabledDefaultCommands
   })
     // Set your MongoDB connection path
