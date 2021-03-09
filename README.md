@@ -14,8 +14,6 @@
 
 > Tento bot pošle na základě příkazu webhook s pozvánkou na PlayInRight
 
-### 🏠 [Homepage](https://github.com/NiDEV-Tech/Webhook-Sender#readme)
-
 ## Install
 
 ```sh
