@@ -7,7 +7,7 @@
   <a href="https://github.com/NiDEV-Tech/Webhook-Sender/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/NiDEV-Tech/Webhook-Sender/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/NiDEV-Tech/Webhook-Sender/blob/main/LICENSE" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/github/license/MadeByIToncek/Webhook-Sender" />
   </a>
 </p>
