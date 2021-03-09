@@ -32,7 +32,10 @@ module.exports = {
                       {
                         "name": "**Co u nás najdete?**",
                         "value": ":small_orange_diamond: Skvělý a **přátelský A-team**, který Vám vždy pomůže \n:small_orange_diamond: Více Discord serverů s různým zaměřením! \n:small_orange_diamond: **Aktivní projekt**, který je stále inovován a váží si svých členů \n:small_orange_diamond: **Velké Giveaways a eventy!** \n:small_orange_diamond: Vlastní discord boty od hudebního až support \n:small_orange_diamond: Webový portál + Knowledge base \n:small_orange_diamond: **Vlastní Minecraft server pro nejvěrnější** \n:small_orange_diamond: **NonToxic komunita a pohoda každý den!** \n:small_orange_diamond: Bezpečné prostřední pro všechny zajištuje **Wick** bot! \n:small_orange_diamond: Možnosti spolupráce po dohodě! \n:small_orange_diamond: Každý člen má právo se podílet svými nápady na serverech \n:small_orange_diamond: Support prakticky 24/7 díky našemu mail botovi.",
-                        "inline": true
+                      },
+                      {
+                        "name": "**Servery projektu**",
+                        "value": ":small_blue_diamond:**Playinright.cz│Official** - Hlavní server. Věk: 16-27 \n https://discord.gg/yvztsYX \n:small_blue_diamond:**Oxikomania** - Server zaměřený na hraní. Věk 13-18 \n https://discord.gg/ZfUuhSt \n :small_blue_diamond:**Šimiho Discord** - Sever zaměřený na CS:GO. Věk 13-18 \n https://discord.gg/cTzbAZETWD \n :small_blue_diamond:**CZ/SK** - Server zaměřený na povídání a psaní. Věk 13-16 \n https://discord.gg/GGhWchj4yv \n :small_blue_diamond:**CHILLovník** - Server zaměřený na hraní her a Meme \n https://discord.gg/yvQsCkgUd2",
                       }
                     ],
                     "footer": {
